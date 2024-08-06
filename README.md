@@ -1,1 +1,1 @@
-# Include codes related to "Python Programming Language"
+# Codes in "Python Programming Language"
